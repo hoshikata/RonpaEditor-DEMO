@@ -1,0 +1,1 @@
+import{W as e}from"./Wrap-kMElMqvm.js";import{g as t,w as o,o as a,e as r}from"./index-CxNknVP4.js";const s=r("div",{class:"bg-gradient-to-b h-[150vh] from-rose-700/50 to-rose-200/50"},null,-1),i={__name:"Chapters",setup(c){return(_,n)=>(a(),t(e,null,{default:o(()=>[s]),_:1}))}};export{i as default};
