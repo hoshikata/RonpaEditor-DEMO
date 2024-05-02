@@ -1,1 +1,0 @@
-import{_ as s,o,d as t,p as c,e as l,n as a}from"./index-DVknFsLz.js";const n={__name:"Header",props:{col:{type:[String],default:""}},setup(e){return(r,d)=>(o(),t("header",{class:a(["setting_header",e.col])},[c(r.$slots,"default"),l("hr",{class:a(["rounded-full border-none bg-current h-[5px]",e.col])},null,2)],2))}},u=s(n,[["__scopeId","data-v-6bbdb18c"]]);export{u as H};
