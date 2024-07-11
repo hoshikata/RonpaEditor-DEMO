@@ -1,1 +1,0 @@
-import{_ as e,o as s,d as t,i as r}from"./index-Bi8ecxMN.js";const c={__name:"Mark",props:{active:{type:[Boolean],default:!1}},setup(a){return(o,n)=>(s(),t("span",{class:r(["mark bg-current",{"mark-active":a.active}])},null,2))}},_=e(c,[["__scopeId","data-v-8184b7b3"]]);export{_ as M};
