@@ -1,0 +1,1 @@
+import{o as e,c as o,a as t}from"./index-CE82DlTq.js";const c={viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"},a=t("path",{fill:"currentColor",d:"M18 12.998h-5v5a1 1 0 0 1-2 0v-5H6a1 1 0 0 1 0-2h5v-5a1 1 0 0 1 2 0v5h5a1 1 0 0 1 0 2"},null,-1),n=[a];function s(r,h){return e(),o("svg",c,[...n])}const l={name:"ic-round-plus",render:s};export{l as I};
