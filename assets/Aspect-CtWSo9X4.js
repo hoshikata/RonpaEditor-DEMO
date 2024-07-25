@@ -1,0 +1,1 @@
+import{_ as a,o,c,a as n,I as s,n as r}from"./index-DTP3OGN9.js";const d={class:"aspect"},p={__name:"Aspect",props:{box:{type:[String],default:""}},setup(t){return(e,l)=>(o(),c("div",d,[n("div",{class:r(["aspect_container",t.box])},[s(e.$slots,"default",{},void 0,!0)],2),s(e.$slots,"outer",{},void 0,!0)]))}},i=a(p,[["__scopeId","data-v-301384c9"]]);export{i as A};
